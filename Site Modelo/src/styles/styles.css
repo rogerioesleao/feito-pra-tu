@@ -32,6 +32,10 @@ body {
     background-color: var(--color-primary-1);
 }
 
+h1.title {
+    text-align: center;
+}
+
 section {
     padding: 28px 8%;
 }
