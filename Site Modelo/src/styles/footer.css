@@ -1,5 +1,6 @@
 footer {
     background-color: var(--color-primary-2);
+    border-color: none;
 }
 
 #footer_items {
