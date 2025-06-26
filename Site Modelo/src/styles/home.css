@@ -64,7 +64,7 @@
 
 #banner img {
     position: absolute;
-    left: 410px;
+    left: 530px;
     height: 80%;
     width: fit-content;
 }
@@ -73,7 +73,7 @@
     width: 257px;
     height: 452px;
     position: absolute;
-    left: 430px;
+    left: 550px;
     top: 76px;
     border: none;
     z-index: 1;
@@ -83,7 +83,7 @@
     width: 300px;
     position: absolute;
     top: 150px;
-    left: 100px;
+    left: 185px;
     font-family: 'poppins', sans-serif;
     font-size: 3em;
     font-weight: bolder;
