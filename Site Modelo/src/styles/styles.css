@@ -6,12 +6,12 @@
 @import url('footer.css');
 
 :root {
-    --color-primary-1: #faf0fa;
-    --color-primary-2: #fcc2fd;
-    --color-primary-3: #fabafb;
-    --color-primary-4: #f7acf4;
-    --color-primary-5: #f887f0;
-    --color-primary-6: #f73bfa;
+    --color-primary-1: #f4ebdd;     /*background*/
+    --color-primary-2: #dbab6c96;   /*rodapé e fundo celular*/
+    --color-primary-3: #d38c69;     /*hover dos botões*/
+    --color-primary-4: #9e532de3;   /*sublinhado do menu*/
+    --color-primary-5: #dbab6c96;   /*botão de compras e avaliações*/
+    --color-primary-6: #9e532de3;   /*H1 e botões de curtir*/
 
     --color-neutral-0: #fff;
     --color-neutral-1: #1d1d1d;

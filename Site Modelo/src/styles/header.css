@@ -8,7 +8,7 @@ header {
 }
 
 #logo {
-    background-color: #f73bfa;
+    background-color: #d38c698e;
     padding: 3px;
     border-radius: 50%;
 }
@@ -21,8 +21,9 @@ header {
 }
 
 #nav_logo {
-    font-size: 24px;
-    color: var(--color-primary-6);
+    font-family: 'Fredericka the Great', sans-serif;
+    font-size: 60px;
+    color: #9e532de3;
 }
 
 #nav_list {
