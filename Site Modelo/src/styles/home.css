@@ -30,6 +30,7 @@
 }
 
 #cta_buttons {
+    justify-content: center;
     display: flex;
     gap: 24px;
 }
@@ -37,6 +38,10 @@
 #cta_buttons a {
     text-decoration: none;
     color: var(--color-neutral-1);;
+}
+
+.social-media-buttons {
+    justify-content: center;
 }
 
 #phone_button {
